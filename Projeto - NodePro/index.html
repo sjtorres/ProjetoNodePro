@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width", initial-scale=1>
+
+	<title>Sandro Torres | Developer Font-End</title>
+
+	<meta name="description" content="Desenvolvedor Front-End | Recortes HTML5 CSS3 Jquery e Aplicação Mobile">
+	<meta name="keywords" content="Front-End, Recortes, Sites, Mobile, Desenvolvedor">
+	<meta name="robots" content="index, follow">
+	<meta name="author" content="Sandro Torres">
+
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+	<link rel="icon" href="img/icon.png">
+</head>
+<body>
+	<!-- CABEÇALHO --> 
+	<header class="cabecalho">
+		<a href="index.html"><h1 class="logo">Sandro Torres | Developer Font-End</h1></a>
+		<button class="btn-menu"> <i class="fa fa-bars fa-lg"></i> </button>
+		<nav class="menu">
+			<a class="btn-close"><i class="fa fa-times"></i></a>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Habilidades</a></li>
+				<li><a href="#">Blog</a></li>
+				<li><a href="#">Sobre</a></li>
+				<li><a href="#">Contato</a></li>
+			</ul>
+		</nav>        
+	</header>
+
+	<!-- BANNER --> 
+	<div class="banner">
+		<div class="title">
+			<h2>Sandro Torres Desenvolvedor Web</h2>
+			<h3>Recortamos o seu layout utilizando as tecnologias PhotoShop, HTML5, CSS3 e Jquery. Entregando um código limpo e bem comentado.</h3>
+		</div>
+		<div class="buttons">
+			<button class="btn-cadastrar"> Vamos trabalhar juntos? <i class="fa fa-arrow-circle-right"></i></button>
+			<button class="btn-sobre"> Mais sobre mim! <i class="fa fa-question-circle"></i></button>
+		</div>
+	</div>
+
+	<!-- SERVIÇOS --> 
+	<main class="servicos container">
+		<article class="servico bg-white radius">
+			<a href="#"><img src="img/criacoes.jpg" alt="Campanhas publicitárias"></a>
+			<div class="inner">
+				<a href="#"> Recortes </a>
+				<h4>Tercerize o desenvolvimento!</h4>
+				<p>Se você está precisando de criação de algum material em específico, conte com a nossa equipe de profissionais. Eles farão toda parte de recort do seu layout, identação e muito mais pela sua empresa no mais alto padrão de qualidade.</p>
+			</div>
+		</article>
+		<article class="servico bg-white radius">
+			<a href="#"><img src="img/md.jpg" alt="Marketing Digital"></a>
+			<div class="inner">
+				<a href="#"> Códigos </a>
+				<h4>Limpo e Identado!</h4>
+				<p>Com um código limpo e identado, sua empresa não vai ter dor de cabeça, na hora de revisar ou fazer pequenas alterações em seu sistema. Nós gostamos de códigos elegante e eficiente proporcionando assim uma leitura natural e compreensiva.</p>
+			</div>
+		</article>
+		<article class="servico bg-white radius">
+			<a href="#"><img src="img/cs.jpg" alt="Criação de Sites"></a>
+			<div class="inner">
+				<a href="#">  Sites Responsivos </a>
+				<h4> Web Única! </h4>
+				<p>Seu código respeitando os principios de web única, layout responsivo ou site flexível, se encaixando automaticamente em qualquer dispositivo do usuário seja ele, SmartTV, PC, Tablet ou Smartphone, mudando sua aparência de acordo com o sispositivo.</p>
+			</div>
+		</article>
+	</main>
+
+	<!-- JQUERY --> 
+	<script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script>
+		$(".btn-menu").click(function(){
+			$(".menu").show();
+		});
+		$(".btn-close").click(function(){
+			$(".menu").hide();
+		});
+	</script>      
+
+</body>
+</html>
