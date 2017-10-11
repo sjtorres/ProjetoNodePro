@@ -51,6 +51,10 @@ img {max-width: 100%;}
 .btn-cadastrar {color: #130400;}
 .btn-sobre {color: #fff; margin-top: 2%;}
 
+/* SOBRE */
+.sobre {width: 100%;  text-align: left;  margin-bottom: 3%;}
+.sobre-foto img {border-radius: 50%;}
+
 /* SERVIÇOS */
 .servico {width: 100%;  text-align: left;  margin-bottom: 3%;}
 .servico img {border-radius: 7px 7px 0 0;}
@@ -83,6 +87,7 @@ img {max-width: 100%;}
 
 /* SMALL DEVICES - TABLETS */
 @media screen and (min-width: 768px) {
+	.sobre-mim {width: 49%; float: left; margin-right: 2%;}
 	.servico {width: 49%; float: left; margin-right: 2%;}
 	.servico:nth-child(2) {margin-right: 0;}
 	.newsletter h2 {font-size: 2em;}
