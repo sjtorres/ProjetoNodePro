@@ -18,12 +18,14 @@ img {max-width: 100%;}
 .container {width: 100%; float: left; padding: 3% 4%; text-align: center;}
 
 /* BG CORES */
-.bg-orange {background-color: #E55126;}
 .bg-black {background-color: #130400; }
 .bg-white {background-color: #fff;}
+.bg-red {background-color: #E55126;}
+.bg-red-ligth {background-color: #F28A16;}
+.bg-orange {background-color: #EC7d00;}
+.bg-orange-ligth {background-color: #F7BB0C;}
 .bg-blue {background-color: #0c73b8;}
-.bg-yellow {background-color: #F1BF26;}
-
+.bg-blue-ligth {background-color: #03b3cf;}
 
 /* HELPERS */
 .radius {border-radius: 7px;}
@@ -37,8 +39,8 @@ img {max-width: 100%;}
 .btn-close {font-size: 1.5em; color: #fff; float: right; cursor: pointer; margin: 2% 3% 0 0;}
 .menu ul {width: 100%; float: left; text-align: center;}
 .menu li {padding: 1.5%;}
-.menu li a {font-size: 2em; color: #fff; padding: 1.5% 3%;}
-.menu li a:hover {border: 1px solid #ffcc00;}
+.menu li a {font-size: 2em; color: #fff; padding: 1.5% 3%; text-transform: uppercase;}
+.menu li a:hover {border: 1px solid #E55126;}
 
 /* BANNER */
 .banner {background: url(../img/bg.jpg) no-repeat fixed;}
@@ -52,8 +54,15 @@ img {max-width: 100%;}
 .btn-sobre {color: #fff; margin-top: 2%;}
 
 /* SOBRE */
-.sobre {width: 100%;  text-align: left;  margin-bottom: 3%;}
-.sobre-foto img {border-radius: 50%;}
+.sobre {width: 100%; text-align: left;  padding: 0 !important; margin-bottom: 3%;}
+.sobre-title {width: 100%; padding: 3% 4%;}
+.sobre-title h2 {font-size: 2.5em; color: #E55126; font-weight: 700; padding: 5px;}
+.sobre-title h3 {font-size: 1.5em; color: #E55126; padding-bottom: 15px;}
+.sobre-img {width: 100%;}
+.sobre-img img {border-radius: 50%; padding: 10% 5%;}
+.sobre-mim {width: 100%; margin-top: 2%; padding: 5%;}
+.sobre-mim h3 {font-size: 2em; text-transform: uppercase; color: #E55126;}
+.sobre-mim p {font-size: 1.2em; text-align: justify; padding: 5px;}
 
 /* SERVIÇOS */
 .servico {width: 100%;  text-align: left;  margin-bottom: 3%;}
@@ -87,7 +96,7 @@ img {max-width: 100%;}
 
 /* SMALL DEVICES - TABLETS */
 @media screen and (min-width: 768px) {
-	.sobre-mim {width: 49%; float: left; margin-right: 2%;}
+	.sobre-img {width: 49%; float: left; margin-right: 2%;}
 	.servico {width: 49%; float: left; margin-right: 2%;}
 	.servico:nth-child(2) {margin-right: 0;}
 	.newsletter h2 {font-size: 2em;}
