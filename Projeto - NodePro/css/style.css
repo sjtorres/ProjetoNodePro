@@ -20,9 +20,9 @@ img {max-width: 100%;}
 /* BG CORES */
 .bg-black {background-color: #130400; }
 .bg-white {background-color: #fff;}
-.bg-red {background-color: #E55126;}
+.bg-red {background-color: #E55126; color: #fff;}
 .bg-red-ligth {background-color: #F28A16;}
-.bg-orange {background-color: #EC7d00;}
+.bg-orange {background-color: #EC7d00; color: #fff;}
 .bg-orange-ligth {background-color: #F7BB0C;}
 .bg-blue {background-color: #0c73b8;}
 .bg-blue-ligth {background-color: #03b3cf;}
@@ -46,23 +46,25 @@ img {max-width: 100%;}
 .banner {background: url(../img/bg.jpg) no-repeat fixed;}
 .title {width: 100%;}
 .title h2 {font-size: 2.5em; color: #fff; font-weight: 700;}
-.title h3 {font-size: 1.5em; color: #fff;}
+.title h3 {font-size: 1.5em; color: #fff; padding-right: 10px;}
 .buttons {width: 100%; margin-top: 2%;}
 .buttons i {float: right;}
 .btn {width: 100%; font-size: 1.5em; text-align: left; cursor: pointer; padding: 5%;}
-.btn-cadastrar {color: #130400;}
-.btn-sobre {color: #fff; margin-top: 2%;}
+.btn-cadastrar {color: #130400; margin-top: 4%;}
+.btn-sobre {color: #fff; margin-top: 4%;}
 
 /* SOBRE */
 .sobre {width: 100%; text-align: left;  padding: 0 !important; margin-bottom: 3%;}
 .sobre-title {width: 100%; padding: 3% 4%;}
-.sobre-title h2 {font-size: 2.5em; color: #E55126; font-weight: 700; padding: 5px;}
-.sobre-title h3 {font-size: 1.5em; color: #E55126; padding-bottom: 15px;}
+.sobre-title h2 {font-size: 2.5em; font-weight: 700; padding: 5px;}
+.sobre-title h3 {font-size: 1.5em; padding-bottom: 15px;}
 .sobre-img {width: 100%;}
 .sobre-img img {border-radius: 50%; padding: 10% 5%;}
 .sobre-mim {width: 100%; margin-top: 2%; padding: 5%;}
-.sobre-mim h3 {font-size: 2em; text-transform: uppercase; color: #E55126;}
-.sobre-mim p {font-size: 1.2em; text-align: justify; padding: 5px;}
+.sobre-mim h3 {font-size: 2em; text-transform: uppercase; font-weight: 700; margin-bottom: 2%; color: #E55126;}
+.sobre-mim p {font-size: 1.2em; line-height: 1.6; text-align: justify; padding: 5px;}
+.sobre-social-icons a {font-size: 1.5em; color: #130400; margin-right: 3%;}
+.sobre-social-icons a:hover {color: #bbb;}
 
 /* SERVIÇOS */
 .servico {width: 100%;  text-align: left;  margin-bottom: 3%;}
@@ -73,11 +75,11 @@ img {max-width: 100%;}
 .inner p {margin-top: 6%; color: #130400; line-height: 1.5em;}
 
 /* NEWSLETTER */
-.newsletter h2 {font-size: 1.5em; color: #fff; font-weight: 700;}
-.newsletter h3 {color: #fff;}
+.newsletter h2 {font-size: 1.5em; font-weight: 700;}
 .newsletter form {margin-top: 2%;}
-.newsletter input {width: 100%; color: #fff; border: 1px solid rgba(255, 255, 255, 0.3); padding: 5%;}
-.newsletter button { width: 100%; color: #130400; padding: 5%; cursor: pointer; margin-top: 2%; }
+.newsletter input {width: 100%; border: 1px solid rgba(255, 255, 255, 0.3); padding: 5%;}
+.newsletter ::-webkit-input-placeholder {color: #fff;}
+.newsletter button { width: 100%; color: #130400; padding: 5%; cursor: pointer; margin-top: 4%; }
 
 /* RODAPÉ */
 .rodape {background-color: #0c73b8;}
