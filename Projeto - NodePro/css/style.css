@@ -31,7 +31,7 @@ img {max-width: 100%;}
 .radius {border-radius: 7px;}
 
 /* CABEÇALHO */
-.logo {width: 56px; height: 56px; float: left; background: url(../img/LogoMobile.png) center center/56px no-repeat; font-size: 0; }
+.logo {width: 56px; height: 56px; float: left; background: url(../img/logo-mobile.png) center center/56px no-repeat; font-size: 0; }
 .btn-menu {width: 56px; height: 56px; float: right; text-align: center; color: #fff; border-radius: 56px; cursor: pointer; background: #0c73b8;}
 
 /* MENU */
@@ -63,8 +63,6 @@ img {max-width: 100%;}
 .sobre-mim {width: 100%; margin-top: 2%; padding: 5%;}
 .sobre-mim h3 {font-size: 2em; text-transform: uppercase; font-weight: 700; margin-bottom: 2%; color: #E55126;}
 .sobre-mim p {font-size: 1.2em; line-height: 1.6; text-align: justify; padding: 5px;}
-.sobre-social-icons a {font-size: 1.5em; color: #130400; margin-right: 3%;}
-.sobre-social-icons a:hover {color: #bbb;}
 
 /* SERVIÇOS */
 .servico {width: 100%;  text-align: left;  margin-bottom: 3%;}
@@ -92,7 +90,7 @@ img {max-width: 100%;}
 
 /* SMALL DEVICES - SMARTPHONES */
 @media screen and (min-width: 480px) {
-	.logo {width: 320px; height: 63px; background: url(../img/Logo.png) center center/320px no-repeat;}
+	.logo {width: 226px; height: 56px; background: url(../img/Logo.png) center center/226px no-repeat;}
 	.btn {font-size: 2em;}
 }
 
