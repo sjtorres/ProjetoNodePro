@@ -24,11 +24,12 @@ img {max-width: 100%;}
 .bg-red-ligth {background-color: #F28A16;}
 .bg-orange {background-color: #EC7d00; color: #fff;}
 .bg-orange-ligth {background-color: #F7BB0C;}
-.bg-blue {background-color: #0c73b8;}
+.bg-blue {background-color: #0c73b8; color: #fff;}
 .bg-blue-ligth {background-color: #03b3cf;}
 
 /* HELPERS */
 .radius {border-radius: 7px;}
+.clear {clear: both;}
 
 /* CABEÇALHO */
 .logo {width: 56px; height: 56px; float: left; background: url(../img/logo-mobile.png) center center/56px no-repeat; font-size: 0; }
@@ -43,7 +44,7 @@ img {max-width: 100%;}
 .menu li a:hover {border: 1px solid #E55126;}
 
 /* BANNER */
-.banner {background: url(../img/bg.jpg) no-repeat fixed;}
+.banner {background: url(../img/bg.jpg) no-repeat fixed; margin-bottom: 4%;}
 .title {width: 100%;}
 .title h2 {font-size: 2.5em; color: #fff; font-weight: 700;}
 .title h3 {font-size: 1.5em; color: #fff; padding-right: 10px;}
@@ -65,7 +66,10 @@ img {max-width: 100%;}
 .sobre-mim p {font-size: 1.2em; line-height: 1.6; text-align: justify; padding: 5px;}
 
 /* SERVIÇOS */
-.servico {width: 100%;  text-align: left;  margin-bottom: 3%;}
+.servico-title {width: 100%; padding: 3% 4%; margin-bottom: 4%; text-align: left;}
+.servico-title h2 {font-size: 2.5em; font-weight: 700; padding: 5px;}
+.servico-title h3 {font-size: 1.5em; padding-bottom: 15px;}
+.servico {width: 100%;  text-align: left; margin-bottom: 3%;}
 .servico img {border-radius: 7px 7px 0 0;}
 .inner {padding: 7%;}
 .inner a {font-size: 1.5em; color: #130400; font-weight: 700; }
@@ -112,8 +116,8 @@ img {max-width: 100%;}
 	.title h3 {font-size: 2em;}
 	.buttons {width: 30%; float: right; margin-top: 0;}
 	.servico {width: 32%;}
-	.servico:nth-child(2) {margin-right: 2%;}
-	.servico:nth-child(3) {margin-right: 0;}
+	.servico:nth-child(2) {margin-right: 2% !important;}
+	.servico:nth-child(3) {margin-right: 0 !important;}
 	.newsletter input {width: 60%; float: none;}
 	.newsletter button {width: 20%; float: none;}
 }
