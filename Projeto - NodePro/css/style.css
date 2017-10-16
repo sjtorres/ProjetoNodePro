@@ -41,7 +41,7 @@ img {max-width: 100%;}
 .menu ul {width: 100%; float: left; text-align: center;}
 .menu li {padding: 1.5%;}
 .menu li a {font-size: 2em; color: #fff; padding: 1.5% 3%; text-transform: uppercase;}
-.menu li a:hover {border: 1px solid #E55126;}
+.menu li a:hover {border: 1px solid #0c73b8;}
 
 /* BANNER */
 .banner {background: url(../img/bg.jpg) no-repeat fixed; margin-bottom: 4%;}
