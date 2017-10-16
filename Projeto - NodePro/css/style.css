@@ -51,8 +51,10 @@ img {max-width: 100%;}
 .buttons {width: 100%; margin-top: 2%;}
 .buttons i {float: right;}
 .btn {width: 100%; font-size: 1.5em; text-align: left; cursor: pointer; padding: 5%;}
-.btn-cadastrar {color: #130400; margin-top: 4%;}
-.btn-sobre {color: #fff; margin-top: 4%;}
+.btn-cadastrar {color: #fff; margin-top: 4%;}
+.btn-sobre {color: #0c73b8; margin-top: 4%;}
+.btn-cadastrar a {color: #fff; margin-top: 4%;}
+.btn-sobre a {color: #0c73b8; margin-top: 4%;}
 
 /* SOBRE */
 .sobre {width: 100%; text-align: left;  padding: 0 !important; margin-bottom: 3%;}
@@ -94,7 +96,7 @@ img {max-width: 100%;}
 
 /* SMALL DEVICES - SMARTPHONES */
 @media screen and (min-width: 480px) {
-	.logo {width: 226px; height: 56px; background: url(../img/Logo.png) center center/226px no-repeat;}
+	.logo {width: 226px; height: 56px; background: url(../img/logo.png) center center/226px no-repeat;}
 	.btn {font-size: 2em;}
 }
 
