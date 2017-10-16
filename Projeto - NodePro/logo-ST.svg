@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logo-ST.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4542">
+      <stop
+         style="stop-color:#e55126;stop-opacity:1;"
+         offset="0"
+         id="stop4538" />
+      <stop
+         style="stop-color:#e55126;stop-opacity:0;"
+         offset="1"
+         id="stop4540" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4542"
+       id="linearGradient4544"
+       x1="71.341133"
+       y1="48.342654"
+       x2="198.53584"
+       y2="48.342654"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.21395076)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4542"
+       id="linearGradient4578"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2057851,0,0,1.2057851,-19.340319,-78.015117)"
+       x1="71.341133"
+       y1="48.342654"
+       x2="198.53584"
+       y2="48.342654" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4542"
+       id="linearGradient4578-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2057851,0,0,1.2057851,-20.353602,-9.7106132)"
+       x1="71.341133"
+       y1="48.342655"
+       x2="198.53584"
+       y2="48.342655" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="518.38269"
+     inkscape:cy="971"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="1272"
+     inkscape:window-y="124"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="92.249532,286.12359"
+       orientation="0,1"
+       id="guide1047"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="92.124204,234.50971"
+       orientation="0,1"
+       id="guide1049"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g4744"
+       transform="matrix(1.031915,0,0,1.0260357,102.05723,120.24717)"
+       inkscape:export-filename="D:\Projetos Git\ProjetoNodePro\Projeto - NodePro\img\icon.png"
+       inkscape:export-xdpi="15.884647"
+       inkscape:export-ydpi="15.884647">
+      <path
+         sodipodi:nodetypes="csccsccaccccc"
+         inkscape:connector-curvature="0"
+         id="path23"
+         d="m -68.539958,-97.466149 c 0,0 2.733987,-0.08622 3.862897,0.2088 2.164585,0.565671 6.553275,2.250318 6.553275,2.250318 l 0.33692,-8.327019 c 0,0 -9.747967,-2.82781 -14.740992,-2.82773 -4.708045,8e-5 -14.362217,2.82823 -14.362217,2.82823 l 0.374788,8.572427 c 0,0 3.784301,-1.901736 5.805592,-2.455293 1.343396,-0.367907 4.134409,-0.557128 4.134409,-0.557128 l 0.595211,39.177455 3.864066,2.304786 3.337971,-2.489217 z"
+         style="fill:#e55126;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.34618193;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="matrix(1.2874109,0,0,1.3297398,-123.29391,-131.3168)"
+         style="fill:#0c73b8;fill-opacity:1;stroke:none"
+         id="g37">
+        <path
+           style="fill:#0c73b8;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 21.401772,34.795683 -1.155827,-9.893879 c 0,0 1.698457,-1.444176 2.682274,-1.946774 1.14072,-0.582755 3.651658,-1.197075 3.651658,-1.197075 l 0.832194,8.090787 7.859622,3.190084 -0.04623,6.565095 z"
+           id="path25"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccaccccc" />
+        <path
+           style="fill:#0c73b8;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 52.562862,21.711722 -1.294524,12.066831 5.917832,2.08049 c 0,0 0.940999,-2.80069 1.409619,-5.498409 0.48511,-2.792641 0.208538,-5.505063 0.208538,-5.505063 0,0 -1.076699,-1.044559 -2.422002,-1.827838 -1.376641,-0.801524 -3.819463,-1.316011 -3.819463,-1.316011 z"
+           id="path27"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccscsc" />
+        <path
+           style="fill:#0c73b8;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 43.963512,35.766576 11.835665,4.253442 c 0,0 -1.205137,3.332663 -4.763651,7.679088 -3.422284,4.180031 -7.222417,6.038193 -7.222417,6.038193 l -0.16933,-7.774856 1.984124,-2.336244 -1.664391,-1.06336 z"
+           id="path29"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsccccc" />
+        <path
+           style="fill:#0c73b8;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 35.529178,46.001842 31.92877,42.014455 22.788764,39.141591 c 0,0 1.984791,4.887806 5.316031,8.553755 3.127053,3.441246 7.074432,6.240827 7.074432,6.240827 z"
+           id="path31"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccscc" />
+      </g>
+    </g>
+    <text
+       inkscape:export-ydpi="27.798132"
+       inkscape:export-xdpi="27.798132"
+       inkscape:export-filename="D:\Projetos Git\ProjetoNodePro\Projeto - NodePro\img\logo.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.84439468px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62110984"
+       x="60.552116"
+       y="35.081089"
+       id="text1153-3"
+       transform="scale(0.95358637,1.0486727)"><tspan
+         sodipodi:role="line"
+         id="tspan1151-3"
+         x="60.552116"
+         y="35.081089"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.62110984">SandroTorres</tspan></text>
+    <text
+       inkscape:export-ydpi="27.798132"
+       inkscape:export-xdpi="27.798132"
+       inkscape:export-filename="D:\Projetos Git\ProjetoNodePro\Projeto - NodePro\img\logo.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.23038006px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35550517;stroke-miterlimit:4;stroke-dasharray:none"
+       x="63.928425"
+       y="54.109077"
+       id="text4526-4"><tspan
+         sodipodi:role="line"
+         id="tspan4524-4"
+         x="63.928425"
+         y="54.109077"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke:none;stroke-width:0.35550517;stroke-miterlimit:4;stroke-dasharray:none">Developer <tspan
+   style="fill:#e55126;fill-opacity:1;stroke:none;stroke-width:0.35550517;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4530-6">Front</tspan>-<tspan
+   style="fill:#0c73b8;fill-opacity:1;stroke:none;stroke-width:0.35550517;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan4556-9">End</tspan></tspan></text>
+    <path
+       inkscape:export-ydpi="27.798132"
+       inkscape:export-xdpi="27.798132"
+       inkscape:export-filename="D:\Projetos Git\ProjetoNodePro\Projeto - NodePro\img\logo.png"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.15869534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 63.059541,40.372318 H 205.74617"
+       id="path4528-5"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
